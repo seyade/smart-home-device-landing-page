@@ -3,5 +3,6 @@
 Run it with `npm run dev`
 
 Stack:
+- Vite (to create the project)
 - HTML
 - Tailwindcss
